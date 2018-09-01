@@ -1,4 +1,4 @@
-package empirepetclinic;
+package empire.anookinov.empirepetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
