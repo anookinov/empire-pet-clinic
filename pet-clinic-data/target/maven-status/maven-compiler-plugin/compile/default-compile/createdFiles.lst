@@ -1,5 +1,14 @@
-empire\anookinov\empirepetclinic\model\Vet.class
 empire\anookinov\empirepetclinic\model\Owner.class
-empire\anookinov\empirepetclinic\model\Pet.class
+empire\anookinov\empirepetclinic\services\map\AbstractMapService.class
 empire\anookinov\empirepetclinic\model\PetType.class
+empire\anookinov\empirepetclinic\services\map\OwnerServiceMap.class
+empire\anookinov\empirepetclinic\services\OwnerService.class
+empire\anookinov\empirepetclinic\services\PetService.class
+empire\anookinov\empirepetclinic\services\CrudService.class
+empire\anookinov\empirepetclinic\services\VetService.class
+empire\anookinov\empirepetclinic\model\BaseEntity.class
 empire\anookinov\empirepetclinic\model\Person.class
+empire\anookinov\empirepetclinic\services\map\VetServiceMap.class
+empire\anookinov\empirepetclinic\model\Pet.class
+empire\anookinov\empirepetclinic\model\Vet.class
+empire\anookinov\empirepetclinic\services\map\PetServiceMap.class

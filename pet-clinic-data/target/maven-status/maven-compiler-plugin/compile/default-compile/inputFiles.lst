@@ -1,5 +1,14 @@
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\CrudService.java
 C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\Person.java
-C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\PetType.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\VetService.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\BaseEntity.java
 C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\Pet.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\PetService.java
 C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\Vet.java
 C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\Owner.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\map\OwnerServiceMap.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\OwnerService.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\map\VetServiceMap.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\model\PetType.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\map\PetServiceMap.java
+C:\Users\Nookinov\craftsmanship\empire-pet-clinic\pet-clinic-data\src\main\java\empire\anookinov\empirepetclinic\services\map\AbstractMapService.java
