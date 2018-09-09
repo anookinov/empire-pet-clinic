@@ -1,11 +1,11 @@
 package empire.anookinov.empirepetclinic.services.map;
 
 import empire.anookinov.empirepetclinic.model.Vet;
-import empire.anookinov.empirepetclinic.services.CrudService;
+import empire.anookinov.empirepetclinic.services.VetService;
 
 import java.util.Set;
 
-public class VetServiceMap extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
     public Set<Vet> findAll() {
