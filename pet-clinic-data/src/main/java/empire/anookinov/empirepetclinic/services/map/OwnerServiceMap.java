@@ -2,9 +2,11 @@ package empire.anookinov.empirepetclinic.services.map;
 
 import empire.anookinov.empirepetclinic.model.Owner;
 import empire.anookinov.empirepetclinic.services.OwnerService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class OwnerServiceMap extends AbstractMapService<Owner,Long> implements OwnerService {
 
     @Override
